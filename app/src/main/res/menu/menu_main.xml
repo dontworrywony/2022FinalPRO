@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--돋보기-->
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="HOME"
+        />
+
+    <item
+        android:id="@+id/menu_board"
+        android:title="아동일지 작성"
+        />
+    <item
+        android:id="@+id/menu_retrofit"
+        android:title="아동복지시설"
+        />
+
+    <item
+        android:id="@+id/menu_auth"
+        android:title="인증"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/menu_main_setting"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="설정"
+        app:showAsAction="always"
+        />
+</menu>
+    <!--
+        app:showAsAction="always" -> 메뉴바에 항상 배치 (없을 시 : 아래에 있음)
+    -->

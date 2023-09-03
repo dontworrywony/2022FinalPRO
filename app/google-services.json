@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357669649973",
+    "project_id": "lastfirebase-da55a",
+    "storage_bucket": "lastfirebase-da55a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357669649973:android:bde5f1fb263f7fe91efb7c",
+        "android_client_info": {
+          "package_name": "com.example.aluapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357669649973-phnjbe7t0adijn5g3f7g2j1nr5484ins.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ2w4iVc3zx2Ah6rubvcwXgswn2BFuCEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357669649973-phnjbe7t0adijn5g3f7g2j1nr5484ins.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

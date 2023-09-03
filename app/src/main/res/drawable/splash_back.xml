@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--root: shape -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#ffffc4dd"
+        android:centerColor="@color/check_color"
+        android:endColor="@color/main_color"
+        android:angle="90"
+        android:centerY="0.5"
+        />
+    <corners
+        android:radius="30dp" />
+</shape>
+<!--왼쪽부터 시작: 90 -> 회전-->
+<!--
+    solid: 한가지 색깔
+    gradient: 서서히 변함
+    corners: 가장자리 둥글게
+-->

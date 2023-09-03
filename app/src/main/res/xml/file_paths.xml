@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="myimages"
+        path="Android/data/package com.example.my12application/files/Pictures" /> <!--전달받은 이미지 저장 폴더-->
+</paths>
+<!--
+    new -> xml resource file
+    file_paths : 파일이름
+    paths : root
+-->
